@@ -1,3 +1,4 @@
+#сделано все в образовательных целях чтобы поняли как все работает!!!!!
 import colorama
 import threading
 import requests

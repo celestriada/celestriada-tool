@@ -1,3 +1,4 @@
+#ЭТО ИГРУШКА!!!!!!
 import requests
 from requests import get
 import random
